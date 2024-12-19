@@ -13,7 +13,7 @@ public class Practice1 {
         //GetCookies
         Set<Cookie> cookies = driver.manage().getCookies();
         System.out.println("Size of the Cookie : "+ cookies.size());
-        System.out.println("Alisha is changing ");
+        System.out.println("Dani is changing");
 
         //Print the cookies
         for (Cookie cookie : cookies)
